@@ -1,1 +1,1 @@
-0x0e. c - structures typedef
+0x0E. C - Structures, typedef
