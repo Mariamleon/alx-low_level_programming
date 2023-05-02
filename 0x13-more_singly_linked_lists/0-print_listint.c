@@ -12,7 +12,7 @@ size_t print_listint(const listint_t *h)
 
 	while (h)
 	{
-		printf("%d\m", h->m);
+		printf("%d\n", h->n);
 		num++;
 		h = h->next;
 	}
